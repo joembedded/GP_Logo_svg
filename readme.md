@@ -2,7 +2,8 @@
 
 (C) GeoPrecision GmbH - 2025
 
-Dieses Projekt dient der Bearbeitung der Schneeflocke aus dem Geoprecision-Logo als SVG-Datei.
+Dieses Projekt ist zum Erstellen/Modifizieren der 'Schneeflocke' aus dem Geoprecision-Logo als SVG-Datei.
+SVG-Dateien sind reiner Text. Hier wird einfach ein Halb-Ast gespiegelt und dann 6 fach rotiert.
 
 ## Vorschau der SVG-Datei
 

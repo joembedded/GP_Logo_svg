@@ -1,0 +1,31 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200"  xmlns="http://www.w3.org/2000/svg">
+  <defs> <!-- Definitionen, Flocke ist 2 * 6 gespiegelt -->
+    <g id="flake-arm">
+      <!-- Ast nach oben--> 
+      <path  d="M -0.5 -20 L 0.1 -20 L 0 -95.75 L-1 -95 L-4 -24 Z" />
+      <!-- 3 Queer-Aeste -->
+      <path   d="M 0 -77 L-15 -85 L-16 -84 L0 -68 Z" />
+      <path   d="M 0 -60 L-19 -70 L-20 -69 L0 -50 Z" />
+      <path   d="M 0 -43 L-22 -57 L-23 -56 L0 -32 Z" />
+      <!-- Ast schraeg links -->
+    <path   d="M -1 -19 L -29.75 -54 L -31.5 -54 L -5 -8 Z" />
+    </g>
+    <g id="flake-arm2">
+      <use href="#flake-arm" />
+      <use href="#flake-arm" transform="scale(-1,1)"/>
+    </g>
+    <g id="flake">
+    <use href="#flake-arm2" transform="rotate(0)"/>
+    <use href="#flake-arm2" transform="rotate(60)"/>
+    <use href="#flake-arm2" transform="rotate(120)"/>
+    <use href="#flake-arm2" transform="rotate(180)"/>
+    <use href="#flake-arm2" transform="rotate(240)"/>
+    <use href="#flake-arm2" transform="rotate(300)"/>
+   </g>
+  </defs>
+
+  <!-- Ab hier Zeichnung Die beiden fill=-Farben evtl. aendern #456 ist ein blaelicher Schlammton -->
+  <rect x="-100" y="-100" width="200" height="200" fill="#FFF"/>
+  <g> <use href="#flake" fill= "#456"/> </g>
+
+</svg>

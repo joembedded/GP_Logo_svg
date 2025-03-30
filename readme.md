@@ -12,13 +12,13 @@ Hier ist die Schneeflocke als SVG eingebunden:
 
 ## Verwendung der PNG-Dateien
 
-Im Ordner `bilder` befinden sich zwei PNG-Dateien, die ebenfalls Teil des Projekts sind (und die Datei mit Objekten (.ufo)):
+Im Ordner `bilder` befinden sich zwei PNG-Dateien, die ebenfalls Teil des Projekts sind (und die Datei mit Objekten (`GP_objects.ufo`)):
 
 ### Geoprecision-Logo in Grau
-![GP Grau](./bilder/gp_grau.png)
+![GP Grau](./bilder/GP_grau.png)
 
 ### Geoprecision-Logo in Rot
-![GP Rot](./bilder/gp_rot.png)
+![GP Rot](./bilder/GP_rot.png)
 
 ## Quellen zur Verwendung
 

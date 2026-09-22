@@ -1,0 +1,21 @@
+GeoPrecision - helle Rueckseiten
+
+Rund: Endformat Durchmesser 107 mm; PDF mit Beschnitt 113 x 113 mm.
+Quadrat: Endformat 100 x 100 mm, gerade Ecken; PDF mit Beschnitt 106 x 106 mm.
+Beschnitt: 3 mm je Seite. PDF-TrimBox kennzeichnet das mittige Endformat-Quadrat; die runde Variante wird kreisfoermig mit 107 mm Durchmesser gestanzt.
+
+Weiss ist unbedruckter Karton, keine weisse Druckfarbe. Keine farbige Hintergrundflaeche.
+Original-Schneeflocke als Vektorgrafik. Sichtbare Farbgestaltung: dunkelblau, helle Blauraster und ein kleiner roter Strich.
+
+STANDARD: Dateien mit CMYK im Namen verwenden nur die vier Prozessfarben Cyan, Magenta, Gelb und Schwarz. Sie passen zur Farbart der bereits erstellten Vorderseiten. Schrift in Pfaden, keine Sonderfarben. Hellblaue Flocke als 20-prozentige Abstufung der dunkelblauen CMYK-Mischung, Eckmotiv mit 9 Prozent.
+
+OPTION: Dateien mit 2_Sonderfarben im Namen verwenden genau zwei benannte Separationen: GP Navy und GP Red. Die hellen Blautoene sind Rasterungen von GP Navy, keine weiteren Farben. Diese Dateien sind nur fuer eine gezielt vereinbarte Zweifarbproduktion der Rueckseite bestimmt. Die Farbnamen sind keine standardisierten Pantone-Farbnummern; die Druckerei muss die Mischungen vereinbaren. Bei einer gemeinsamen Vorder-/Rueckseitenproduktion mit insgesamt maximal vier Farben die CMYK-Dateien verwenden, da die vorhandenen Vorderseiten in CMYK angelegt sind.
+
+SVG: bearbeitbarer RGB-Master mit eingebetteten Nimbus-Sans-Webfonts. Schriften koennen in manchen Grafikprogrammen ersetzt werden; die PDF enthaelt exakte Schriftkonturen. Die SVG-Farben sind Bildschirmnaeherungen und keine separierten Druckfarben.
+
+Vor Bestellung Beschnitt, Kartonfarbe und Ausgabeprofil mit der Druckerei abgleichen. Kein druckereispezifisches ICC-Profil, kein PDF/X-Zertifikat. Die Uebersichts-PNG ist nur eine Vorschau, nicht die Druckdatei.
+
+Markenreferenzen:
+https://geo-precision.com/
+https://thermistor-string.com/
+Original-Schneeflocke: https://geo-precision.com/assets/images/snowflake.svg
